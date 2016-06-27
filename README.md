@@ -1,3 +1,5 @@
+[![ghit.me](https://ghit.me/badge.svg?repo=TheBox193/slack-emoji)](https://ghit.me/repo/TheBox193/slack-emoji)
+
 # slack-emoji
 Let's build a library of slack emoji!
 
