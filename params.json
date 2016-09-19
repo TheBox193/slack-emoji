@@ -1,0 +1,6 @@
+{
+  "name": "Slack-emoji",
+  "tagline": "A collection of slack emoji",
+  "body": "# slack-emoji\r\nLet's build a library of slack emoji!\r\n\r\n![Alt text](/gif/pedro.gif?raw=true \"Optional Title\")\r\n\r\nAll emoji meet Slack's max file sizes and dimentions.\r\n* 128px x 128px\r\n* 64K\r\n\r\n# PRs welcome\r\nAnything goes.\r\n\r\n[![ghit.me](https://ghit.me/badge.svg?repo=TheBox193/slack-emoji)](https://ghit.me/repo/TheBox193/slack-emoji)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
