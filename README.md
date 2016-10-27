@@ -7,7 +7,7 @@ All emoji meet Slack's max file sizes and dimentions.
 * 128px x 128px
 * 64K
 
-Download the custom emoji and upload to your slack: slack.com/customize/emoji
+Download the custom emoji and upload to your slack: [slack.com/customize/emoji](https://slack.com/customize/emoji)
 
 # PRs welcome
 Anything goes.
