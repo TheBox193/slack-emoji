@@ -12,7 +12,9 @@ Anything goes.
 
 [![ghit.me](https://ghit.me/badge.svg?repo=TheBox193/slack-emoji)](https://ghit.me/repo/TheBox193/slack-emoji)
 
+{{site.static_files}}
 {% for image in site.static_files %}
+    hi
     {% if image.path contains 'gifs' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="Slack emoji" />
     {% endif %}
