@@ -13,3 +13,10 @@ Download the custom emoji and upload to your slack: [slack.com/customize/emoji](
 Anything goes.
 
 [![ghit.me](https://ghit.me/badge.svg?repo=TheBox193/slack-emoji)](https://ghit.me/repo/TheBox193/slack-emoji)
+
+
+{% for image in site.static_files %}
+    {% if image.path contains 'gifs' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="Slack emoji" />
+    {% endif %}
+{% endfor %}
