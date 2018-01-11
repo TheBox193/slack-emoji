@@ -1,0 +1,8 @@
+title: Slack-emoji
+description: A collection of slack emoji
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
