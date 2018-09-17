@@ -13,3 +13,8 @@ Download the custom emoji and upload to your slack: [slack.com/customize/emoji](
 Anything goes.
 
 [![ghit.me](https://ghit.me/badge.svg?repo=TheBox193/slack-emoji)](https://ghit.me/repo/TheBox193/slack-emoji)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/TheBox193/slack-emoji/badge.svg?style=beer-square)](https://beerpay.io/TheBox193/slack-emoji)  [![Beerpay](https://beerpay.io/TheBox193/slack-emoji/make-wish.svg?style=flat-square)](https://beerpay.io/TheBox193/slack-emoji?focus=wish)
